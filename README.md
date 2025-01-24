@@ -1,7 +1,5 @@
 
-![Readme banner](https://github.com/user-attachments/assets/3d7b6d13-9c1d-4b54-916e-ee440b6e8dc7)
-<pre style="background-color: red;">Hi there 👋 It's Ismail! </pre>
-![Readme footer](https://github.com/user-attachments/assets/acffa9ce-bffd-4c33-980f-94dfbb1b7f21)
+![readme_banner](https://github.com/user-attachments/assets/a69d3185-1f52-44c3-9b17-5fc737fbd040)
 
 <!--
 **FehamIsmail/FehamIsmail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
